@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "title": "Python",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "2",
+        "title": "React",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "3",
+        "title": "C/C++",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "4",
+        "title": "REST APIs",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "5",
+        "title": "JavaScript",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "6",
+        "title": "SQL",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "7",
+        "title": "TypeScript",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "7",
+        "title": "HTML/CSS/SCSS",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    },
+    {
+        "id": "8",
+        "title": "Figma",
+        "imgUrl": "/assets/boaa_2024.png"
+        
+    }
+]

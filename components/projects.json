@@ -1,41 +1,46 @@
 [
     {
-        "id": 1,
-        "title": "End-to-End Instagram Clone",
-        "description": "Built an Instagram clone on an AWS EC2 instance with client-side dynamic components for real-time updates of posts, likes, and comments through REST API endpoints. Code unavailable due to University of Michigan honor code.",
-        "imgUrl": "/assets/boaa_2024.png",
-        "link": "no",
-        "categories": ["Software Dev"]
-    },
-    {
-        "id": 2,
+        "id": "1",
         "title": "Best of Ann Arbor 2024",
         "description": "Every year, The Michigan Daily compiles the most popular Ann Arbor businesses as voted on by our readership. In 2024, I served as the project manager and one of the web developers for the accompanying React-based website.",
         "imgUrl": "/assets/boaa_2024.png",
+        "altText": "",
         "link": "https://specials.michigandaily.com/2024/best-of-ann-arbor/results/",
         "categories": ["Live Website", "Software Dev"]
     },
     {
-        "id": 3,
+        "id": "2",
         "title": "The Michigan Daily's Crossword Puzzles",
         "description": "I help maintain the codebase for The Michigan Daily's games. I previously worked on changes to crossword logic and I'm currently implementing author pages for Crossword Constructors.",
         "imgUrl": "/assets/grad_crossword.png",
+        "altText": "",
         "link": "https://games.michigandaily.com/",
         "categories": ["Live Website", "Software Dev"]
     },
     {
-        "id": 4,
+        "id": "3",
+        "title": "End-to-End Instagram Clone",
+        "description": "Built an Instagram clone on an AWS EC2 instance with client-side dynamic components for real-time updates of posts, likes, and comments through REST API endpoints. Code unavailable due to University of Michigan honor code.",
+        "imgUrl": "/assets/boaa_2024.png",
+        "altText": "",
+        "link": "",
+        "categories": ["Software Dev"]
+    },
+    {
+        "id": "4",
         "title": "M-Pact",
         "description": "Club participation is a significant part of University of Michigan campus culture, but the task of joining clubs is often complex and overwhelming for students. As a 5-week project for my product design class, I sought to explore how I might aid undergraduate students in streamlining the club discovery process.",
         "imgUrl": "/assets/m-pact.png",
+        "altText": "",
         "link": "https://www.figma.com/proto/viVuO3nrF9qQfKRVaJnNwi/Project-1---Kristen-Su?node-id=196-627&p=f&t=870DntFXfGjkZVjR-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=196%3A627&show-proto-sidebar=1",
-        "categories": ["Case Study", "UI/UX Design"]
+        "categories": ["Figma Prototype", "UI/UX Design"]
     },
     {
-        "id": 5,
+        "id": "5",
         "title": "Marquee Arts Redesign",
         "description": "Marquee Arts is an arts non-profit in Ann Arbor, MI. They own the State Theatre and the Michigan Theater, where they host film screenings and live events. As part of a class project, I redesigned the Marquee Arts checkout process for ticket purchases to streamline usability and business needs, based on research findings and best responsive design practices.",
         "imgUrl": "/assets/marquee-arts.png",
+        "altText": "",
         "link": "https://kristen-su.notion.site/",
         "categories": ["Case Study", "UI/UX Design"]
     }

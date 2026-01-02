@@ -1,25 +1,20 @@
 import Items from './projects.json'
-const Projects = () => {
+import Project from './Project';
+export default function Projects() {
     return (
         <div>
             <h1 className="mb-4 font-bold tracking-tight text-heading md:text-lg lg:text-xl" id="projects">Projects</h1>
             {
                 Items.map( item => {
                     return(
-                        <a href={ item.link }>
-                            <div className="flex flex-row">
-                                <div><img src={ item.imgUrl }></img></div>
-                                <div className="flex flex-col">
-                                    <div>{ item.title }</div>
-                                    <div>{ item.description }</div>
-                                </div>
-                            </div>
-                        </a>
-                    )
+                        (item.link) 
+                        ? 
+                            <a key={item.id} href={ item.link }><Project id={item.id} img={item.imgUrl} title={item.title} description={item.description} alt={item.altText}/></a> 
+                        : 
+                            <div key={item.id}><Project id={item.id} img={item.imgUrl} title={item.title} description={item.description} alt={item.altText}/></div>
+                    );
                 })
             }
         </div>
     );
 };
-
-export default Projects;
