@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This is currently a work in progress.
 ## About this Project
 
 - **Acknowledgements:** 
-    - The blog component of this website was built with the help of the following YouTube tutorial: [Create a Blog with NextJS - In 10 Minutes](https://www.youtube.com/watch?v=ahX4mVgM8AE)
+    - The blog component of this website is being built with the help of the following YouTube tutorial: [Create a Blog with NextJS - In 10 Minutes](https://www.youtube.com/watch?v=ahX4mVgM8AE)
     - This website is inspired by [https://olivergao.org](https://olivergao.org), [https://www.benrogers.dev/](https://www.benrogers.dev/), and [https://yum25.github.io](https://yum25.github.io).
     - [Github Community discussion](https://github.com/orgs/community/discussions/191018) about deploying NextJS to Github Pages
 - **Tech Stack:**
@@ -14,6 +14,7 @@ Welcome to my personal portfolio website! This is currently a work in progress.
     - Store project details in a Google Sheet/.csv somewhere on the Cloud. Have a Github Action automatically grab it (or manually run this action) each time it changes, and automatically reflect the changes on the website.
     - Currently running a Github Actions workflow to update the website content even though I don't have much dynamic content on this website; I should consider hosting this as static HTML instead.
     - Include more in-depth explanations about I've done on various projects.
+    - Accessibility improvements to the card layout using [this](https://ux.stackexchange.com/questions/133849/card-with-button-or-completely-clickable-card) Stack Exchange post and [this](https://www.youtube.com/watch?v=iIoHdxmC8eM) YouTube video.
 
 ## Getting Started
 

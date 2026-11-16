@@ -4,7 +4,7 @@ const AboutMe = () => {
         <main role="main" aria-labelledby="about-me">
             <h1 className="mb-4 font-bold tracking-tight text-heading text-xl lg:text-2xl" id="about-me">Hi, I'm Kristen, an aspiring software engineer hoping to build socially responsible technology.</h1>
             <ol className="list-none">
-                <li>I'm a Computer Science and UX Design student at the University of Michigan. Most recently, I worked as a Software Engineering Intern at Voya Financial and as a Software Engineer at The Michigan Daily.</li>
+                <li>I'm a Computer Science and UX Design student at the University of Michigan. Most recently, I was a Software Engineer Intern at Voya Financial; previously, I've also worked at The Texas Tribune, The Michigan Daily, and the University of Michigan's IT department.</li>
                 {/* <li>Most recently, I worked as a Software Engineering Intern at Voya Financial and as a Software Engineer at The Michigan Daily.</li> */}
             </ol>
         </main>
