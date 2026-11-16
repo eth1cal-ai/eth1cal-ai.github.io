@@ -126,7 +126,7 @@ body {
   }
 }
 
-@media (max-width: 768px) and (hover: hover) {
+@media (max-width: 768px) {
   .nav-bar {
     display: none;
   }
